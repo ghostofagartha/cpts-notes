@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gathering - Web Edition/3. DNS & Subdomains/Subdomain Bruteforcing.md",
+                "file": "Information Gathering - Web Edition/3. DNS & Subdomains/6. Virtual Hosts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Subdomain Bruteforcing"
+              "title": "6. Virtual Hosts"
             }
           }
         ]
@@ -185,13 +185,18 @@
   },
   "active": "f656b62c48f0d9b4",
   "lastOpenFiles": [
-    "Information Gathering - Web Edition/3. DNS & Subdomains/Subdomains.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/Subdomain Bruteforcing.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/Digging DNS.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/DNS.md",
+    "Footprinting/4. Remote Management Protocols/Linux Remote Management Protocol.md",
+    "Footprinting/4. Remote Management Protocols",
+    "Information Gathering - Web Edition/3. DNS & Subdomains/6. Virtual Hosts.md",
+    "Information Gathering - Web Edition/3. DNS & Subdomains/5. DNS Zone Transfer.md",
+    "Information Gathering - Web Edition/3. DNS & Subdomains/1. DNS.md",
+    "Information Gathering - Web Edition/3. DNS & Subdomains/3. Subdomains.md",
+    "Information Gathering - Web Edition/3. DNS & Subdomains/4. Subdomain Bruteforcing.md",
+    "Information Gathering - Web Edition/3. DNS & Subdomains/2. Digging DNS.md",
+    "Information Gathering - Web Edition/3. DNS & Subdomains/inlanefreight.com_ips.txt",
     "Information Gathering - Web Edition/2. WHOIS/WHOIS.md",
     "Information Gathering - Web Edition/1. Introduction/Introduction.md",
-    "Footprinting/3. Host Based Enumeration/FTP.md",
-    "Footprinting/3. Host Based Enumeration/DNS.md"
+    "Footprinting/3. Host Based Enumeration/1. FTP.md",
+    "Footprinting/3. Host Based Enumeration/4. DNS.md"
   ]
 }
