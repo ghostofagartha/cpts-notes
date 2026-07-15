@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gathering - Web Edition/5. Crawling/4. Creepy Crawlies.md",
-                "mode": "preview",
+                "file": "Information Gathering - Web Edition/8. Automating Recon/Automating Recon.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Creepy Crawlies"
+              "title": "Automating Recon"
             }
           }
         ]
@@ -185,11 +185,18 @@
   },
   "active": "f656b62c48f0d9b4",
   "lastOpenFiles": [
-    "Information Gathering - Web Edition/5. Crawling/3. .Well-Known URIs.md",
+    "Information Gathering - Web Edition/2. WHOIS/WHOIS.md",
+    "Information Gathering - Web Edition/8. Automating Recon/Automating Recon.md",
+    "Information Gathering - Web Edition/6. Search Engine Discovery/Search Engine Discovery.md",
+    "Information Gathering - Web Edition/7. Web Archives/Web Archives.md",
+    "Information Gathering - Web Edition/8. Automating Recon",
+    "Information Gathering - Web Edition/7. Web Archives",
+    "Information Gathering - Web Edition/4. Fingerprinting/Fingerprinting.md",
+    "Information Gathering - Web Edition/6. Search Engine Discovery",
     "Information Gathering - Web Edition/5. Crawling/4. Creepy Crawlies.md",
+    "Information Gathering - Web Edition/5. Crawling/3. .Well-Known URIs.md",
     "Information Gathering - Web Edition/5. Crawling/2. robots.txt.md",
     "Information Gathering - Web Edition/5. Crawling/1. Crawling.md",
-    "Information Gathering - Web Edition/4. Fingerprinting/Fingerprinting.md",
     "Information Gathering - Web Edition/5. Crawling",
     "Information Gathering - Web Edition/3. DNS & Subdomains/7. Certificate Transparency Logs.md",
     "Information Gathering - Web Edition/4. Fingerprinting",
@@ -210,8 +217,6 @@
     "Information Gathering - Web Edition/3. DNS & Subdomains/3. Subdomains.md",
     "Information Gathering - Web Edition/3. DNS & Subdomains/4. Subdomain Bruteforcing.md",
     "Information Gathering - Web Edition/3. DNS & Subdomains/2. Digging DNS.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/inlanefreight.com_ips.txt",
-    "Information Gathering - Web Edition/2. WHOIS/WHOIS.md",
-    "Information Gathering - Web Edition/1. Introduction/Introduction.md"
+    "Information Gathering - Web Edition/3. DNS & Subdomains/inlanefreight.com_ips.txt"
   ]
 }
