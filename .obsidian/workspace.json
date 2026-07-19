@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0281741998a92857",
+        "id": "f4bf3b9ec0b30f83",
         "type": "tabs",
         "children": [
           {
-            "id": "f656b62c48f0d9b4",
+            "id": "8ace255f5397471c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information Gathering - Web Edition/8. Automating Recon/Automating Recon.md",
+                "file": "3. Vulnerability Assessment/4. Reporting/Reporting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Automating Recon"
+              "title": "Reporting"
             }
           }
         ]
@@ -183,40 +183,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "f656b62c48f0d9b4",
+  "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "Information Gathering - Web Edition/2. WHOIS/WHOIS.md",
-    "Information Gathering - Web Edition/8. Automating Recon/Automating Recon.md",
-    "Information Gathering - Web Edition/6. Search Engine Discovery/Search Engine Discovery.md",
-    "Information Gathering - Web Edition/7. Web Archives/Web Archives.md",
-    "Information Gathering - Web Edition/8. Automating Recon",
-    "Information Gathering - Web Edition/7. Web Archives",
-    "Information Gathering - Web Edition/4. Fingerprinting/Fingerprinting.md",
-    "Information Gathering - Web Edition/6. Search Engine Discovery",
-    "Information Gathering - Web Edition/5. Crawling/4. Creepy Crawlies.md",
-    "Information Gathering - Web Edition/5. Crawling/3. .Well-Known URIs.md",
-    "Information Gathering - Web Edition/5. Crawling/2. robots.txt.md",
-    "Information Gathering - Web Edition/5. Crawling/1. Crawling.md",
-    "Information Gathering - Web Edition/5. Crawling",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/7. Certificate Transparency Logs.md",
-    "Information Gathering - Web Edition/4. Fingerprinting",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/6. Virtual Hosts.md",
-    "Footprinting/3. Host Based Enumeration/5. SMTP.md",
-    "Footprinting/3. Host Based Enumeration/4. DNS.md",
-    "Footprinting/3. Host Based Enumeration/3. NFS.md",
-    "Footprinting/3. Host Based Enumeration/2. SMB.md",
-    "Footprinting/3. Host Based Enumeration/1. FTP.md",
-    "Footprinting/2. Infrastructure Based Enumeration/Staff Reconnaissance.md",
-    "Footprinting/2. Infrastructure Based Enumeration/Domain_Information.md",
-    "Footprinting/2. Infrastructure Based Enumeration/Cloud Resources.md",
-    "Footprinting/1. Introduction/Enumeration_Methodology.md",
-    "Footprinting/4. Remote Management Protocols/Linux Remote Management Protocol.md",
-    "Footprinting/4. Remote Management Protocols",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/5. DNS Zone Transfer.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/1. DNS.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/3. Subdomains.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/4. Subdomain Bruteforcing.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/2. Digging DNS.md",
-    "Information Gathering - Web Edition/3. DNS & Subdomains/inlanefreight.com_ips.txt"
+    "3. Vulnerability Assessment/3. Nessus/9. OpenVAS Skill Assessment.md",
+    "3. Vulnerability Assessment/4. Reporting/Reporting.md",
+    "3. Vulnerability Assessment/4. Reporting",
+    "3. Vulnerability Assessment/3. Nessus/8. Exporting The Results.md",
+    "3. Vulnerability Assessment/3. Nessus/7. OpenVAS Scan.md",
+    "3. Vulnerability Assessment/3. Nessus/6. Getting Started with OpenVAS.md",
+    "3. Vulnerability Assessment/3. Nessus/5. Nessus Skill Assessment.md",
+    "3. Vulnerability Assessment/3. Nessus/4. Advanced Settings.md",
+    "Pasted image 20260718161050.png",
+    "Pasted image 20260718151038.png",
+    "1. Footprinting/4. Remote Management Protocols/Windows Remote Management Protocol.md",
+    "3. Vulnerability Assessment/3. Nessus/3. Nessus Scan.md",
+    "3. Vulnerability Assessment/3. Nessus/2. Getting Started with Nessus.md",
+    "3. Vulnerability Assessment/3. Nessus/1. Vulnerability Scanning Overview.md",
+    "3. Vulnerability Assessment/2. Vulnerability Scoring and Reporting/2. Common Vulnerabilities and Exposures (CVE).md",
+    "3. Vulnerability Assessment/3. Nessus",
+    "3. Vulnerability Assessment/2. Vulnerability Scoring and Reporting/1. Common Vulnerability Scoring System (CVSS).md",
+    "3. Vulnerability Assessment/2. Vulnerability Scoring and Reporting",
+    "1. Footprinting/3. Host Based Enumeration/3. NFS.md",
+    "2. Information Gathering - Web Edition/5. Crawling/4. Creepy Crawlies.md",
+    "3. Vulnerability Assessment/1. Security Assessments",
+    "3. Vulnerability Assessment",
+    "2. Information Gathering - Web Edition/5. Crawling/3. .Well-Known URIs.md",
+    "2. Information Gathering - Web Edition/5. Crawling/2. robots.txt.md",
+    "2. Information Gathering - Web Edition/5. Crawling/1. Crawling.md",
+    "2. Information Gathering - Web Edition/8. Automating Recon/Automating Recon.md",
+    "2. Information Gathering - Web Edition/2. WHOIS/WHOIS.md",
+    "2. Information Gathering - Web Edition/6. Search Engine Discovery/Search Engine Discovery.md",
+    "2. Information Gathering - Web Edition/7. Web Archives/Web Archives.md",
+    "2. Information Gathering - Web Edition/8. Automating Recon",
+    "2. Information Gathering - Web Edition/7. Web Archives",
+    "2. Information Gathering - Web Edition/4. Fingerprinting/Fingerprinting.md",
+    "2. Information Gathering - Web Edition/6. Search Engine Discovery",
+    "2. Information Gathering - Web Edition/5. Crawling",
+    "2. Information Gathering - Web Edition/3. DNS & Subdomains/7. Certificate Transparency Logs.md",
+    "2. Information Gathering - Web Edition/4. Fingerprinting",
+    "2. Information Gathering - Web Edition/3. DNS & Subdomains/6. Virtual Hosts.md",
+    "1. Footprinting/3. Host Based Enumeration/5. SMTP.md"
   ]
 }
