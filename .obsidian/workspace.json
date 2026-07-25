@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Shells & Payloads/1. Introduction/1. Shells Jacks Us In, Payloads Deliver Us Shells.md",
-                "mode": "source",
+                "file": "5. Shells & Payloads/3. Payloads/3. Crafting Payloads with MSFvenom.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Shells Jacks Us In, Payloads Deliver Us Shells"
+              "title": "3. Crafting Payloads with MSFvenom"
             }
           }
         ]
@@ -185,8 +185,19 @@
   },
   "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "5. Shells & Payloads/1. Introduction/2. CAT5 Security's Engagement Preparation.md",
+    "5. Shells & Payloads/3. Payloads/2. Automating Payloads & Delivery with Metasploit.md",
+    "5. Shells & Payloads/3. Payloads/3. Crafting Payloads with MSFvenom.md",
+    "5. Shells & Payloads/3. Payloads/1. Introduction to Payloads.md",
+    "5. Shells & Payloads/2. Shell Basics/3. Reverse Shells.md",
+    "5. Shells & Payloads/3. Payloads",
+    "1. Footprinting/4. Remote Management Protocols/Windows Remote Management Protocol.md",
+    "5. Shells & Payloads/2. Shell Basics/2. Bind Shells.md",
+    "5. Shells & Payloads/2. Shell Basics/1. Anatomy of a Shell.md",
+    "1. Footprinting/3. Host Based Enumeration/11. IPMI.md",
+    "5. Shells & Payloads/2. Shell Basics",
+    "1. Footprinting/3. Host Based Enumeration/10. Oracle TNS.md",
     "5. Shells & Payloads/1. Introduction/1. Shells Jacks Us In, Payloads Deliver Us Shells.md",
+    "5. Shells & Payloads/1. Introduction/2. CAT5 Security's Engagement Preparation.md",
     "4. File Transfer/2. File Transfer Methods/2. Linux File Transfer Methods.md",
     "5. Shells & Payloads/1. Introduction",
     "5. Shells & Payloads",
@@ -200,7 +211,6 @@
     "4. File Transfer/3. Detect or Be Detected/Detection.md",
     "4. File Transfer/3. Detect or Be Detected",
     "Untitled.md",
-    "1. Footprinting/4. Remote Management Protocols/Windows Remote Management Protocol.md",
     "Pasted image 20260720162013.png",
     "4. File Transfer/1. Introduction/File Transfer.md",
     "4. File Transfer/2. File Transfer Methods",
@@ -209,20 +219,10 @@
     "1. Footprinting/3. Host Based Enumeration/8. MySQL.md",
     "1. Footprinting/3. Host Based Enumeration/7. SNMP.md",
     "1. Footprinting/3. Host Based Enumeration/6. IMAP - POP3.md",
-    "1. Footprinting/3. Host Based Enumeration/4. DNS.md",
-    "1. Footprinting/3. Host Based Enumeration/1. FTP.md",
-    "1. Footprinting/3. Host Based Enumeration/2. SMB.md",
-    "1. Footprinting/3. Host Based Enumeration/3. NFS.md",
-    "1. Footprinting/4. Remote Management Protocols/Linux Remote Management Protocol.md",
-    "1. Footprinting/3. Host Based Enumeration/5. SMTP.md",
-    "3. Vulnerability Assessment/4. Reporting/Reporting.md",
     "4. File Transfer",
-    "3. Vulnerability Assessment/3. Nessus/9. OpenVAS Skill Assessment.md",
     "3. Vulnerability Assessment/4. Reporting",
     "Pasted image 20260718161050.png",
     "Pasted image 20260718151038.png",
-    "3. Vulnerability Assessment/3. Nessus",
-    "3. Vulnerability Assessment/2. Vulnerability Scoring and Reporting",
-    "3. Vulnerability Assessment/1. Security Assessments"
+    "3. Vulnerability Assessment/3. Nessus"
   ]
 }
