@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Shells & Payloads/3. Payloads/3. Crafting Payloads with MSFvenom.md",
+                "file": "5. Shells & Payloads/5. NIX Shells/2. Spawning Interactive Shells.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Crafting Payloads with MSFvenom"
+              "title": "2. Spawning Interactive Shells"
             }
           }
         ]
@@ -185,8 +185,14 @@
   },
   "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "5. Shells & Payloads/3. Payloads/2. Automating Payloads & Delivery with Metasploit.md",
+    "5. Shells & Payloads/5. NIX Shells/1. Infiltrating Unix-Linux.md",
+    "5. Shells & Payloads/5. NIX Shells/2. Spawning Interactive Shells.md",
+    "5. Shells & Payloads/4. Windows Shells/Infiltrating Windows.md",
+    "5. Shells & Payloads/5. NIX Shells",
+    "5. Shells & Payloads/Untitled.md",
+    "5. Shells & Payloads/4. Windows Shells",
     "5. Shells & Payloads/3. Payloads/3. Crafting Payloads with MSFvenom.md",
+    "5. Shells & Payloads/3. Payloads/2. Automating Payloads & Delivery with Metasploit.md",
     "5. Shells & Payloads/3. Payloads/1. Introduction to Payloads.md",
     "5. Shells & Payloads/2. Shell Basics/3. Reverse Shells.md",
     "5. Shells & Payloads/3. Payloads",
@@ -214,15 +220,9 @@
     "Pasted image 20260720162013.png",
     "4. File Transfer/1. Introduction/File Transfer.md",
     "4. File Transfer/2. File Transfer Methods",
-    "1. Footprinting/3. Host Based Enumeration/9. MSSQL.md",
     "4. File Transfer/1. Introduction",
-    "1. Footprinting/3. Host Based Enumeration/8. MySQL.md",
-    "1. Footprinting/3. Host Based Enumeration/7. SNMP.md",
-    "1. Footprinting/3. Host Based Enumeration/6. IMAP - POP3.md",
     "4. File Transfer",
-    "3. Vulnerability Assessment/4. Reporting",
     "Pasted image 20260718161050.png",
-    "Pasted image 20260718151038.png",
-    "3. Vulnerability Assessment/3. Nessus"
+    "Pasted image 20260718151038.png"
   ]
 }
