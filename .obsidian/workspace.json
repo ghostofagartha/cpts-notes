@@ -185,8 +185,10 @@
   },
   "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "5. Shells & Payloads/6. Web Shells/3. Antak WebShell.md",
+    "5. Shells & Payloads/7. Additional Considerations/Detection & Prevention.md",
     "5. Shells & Payloads/6. Web Shells/4. PHP Web Shells.md",
+    "5. Shells & Payloads/7. Additional Considerations",
+    "5. Shells & Payloads/6. Web Shells/3. Antak WebShell.md",
     "5. Shells & Payloads/6. Web Shells/2. Laudanum, One Webshell to Rule Them All.md",
     "5. Shells & Payloads/6. Web Shells/1. Introduction to Web Shells.md",
     "5. Shells & Payloads/5. NIX Shells/2. Spawning Interactive Shells.md",
@@ -217,11 +219,9 @@
     "4. File Transfer/2. File Transfer Methods/4. Miscellaneous File Transfer Methods.md",
     "4. File Transfer/2. File Transfer Methods/3. Transferring Files with Code.md",
     "4. File Transfer/2. File Transfer Methods/7. Living off The Land.md",
-    "4. File Transfer/2. File Transfer Methods/6. Catching Files over HTTP and HTTPS.md",
     "4. File Transfer/3. Detect or Be Detected",
     "Pasted image 20260720162013.png",
     "4. File Transfer/2. File Transfer Methods",
-    "4. File Transfer/1. Introduction",
     "Pasted image 20260718161050.png",
     "Pasted image 20260718151038.png"
   ]
