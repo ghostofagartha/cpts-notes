@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Shells & Payloads/6. Web Shells/4. PHP Web Shells.md",
-                "mode": "source",
+                "file": "6. Using the Metasploit Framework/2. MSF Components/2. Targets.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. PHP Web Shells"
+              "title": "2. Targets"
             }
           }
         ]
@@ -185,8 +185,18 @@
   },
   "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "5. Shells & Payloads/7. Additional Considerations/Detection & Prevention.md",
+    "6. Using the Metasploit Framework/2. MSF Components/1. Modules.md",
+    "6. Using the Metasploit Framework/2. MSF Components/2. Targets.md",
+    "6. Using the Metasploit Framework/1. Introduction/3. Introduction to MSFconsole.md",
+    "6. Using the Metasploit Framework/2. MSF Components",
+    "6. Using the Metasploit Framework/Untitled.md",
+    "6. Using the Metasploit Framework/1. Introduction/2. Introduction to Metasploit.md",
+    "6. Using the Metasploit Framework/1. Introduction/1. Preface.md",
     "5. Shells & Payloads/6. Web Shells/4. PHP Web Shells.md",
+    "6. Using the Metasploit Framework/1. Introduction",
+    "6. Using the Metasploit Framework",
+    "5. Shells & Payloads/Untitled",
+    "5. Shells & Payloads/7. Additional Considerations/Detection & Prevention.md",
     "5. Shells & Payloads/7. Additional Considerations",
     "5. Shells & Payloads/6. Web Shells/3. Antak WebShell.md",
     "5. Shells & Payloads/6. Web Shells/2. Laudanum, One Webshell to Rule Them All.md",
@@ -211,17 +221,7 @@
     "1. Footprinting/3. Host Based Enumeration/10. Oracle TNS.md",
     "5. Shells & Payloads/1. Introduction/1. Shells Jacks Us In, Payloads Deliver Us Shells.md",
     "5. Shells & Payloads/1. Introduction/2. CAT5 Security's Engagement Preparation.md",
-    "4. File Transfer/2. File Transfer Methods/2. Linux File Transfer Methods.md",
-    "5. Shells & Payloads/1. Introduction",
-    "5. Shells & Payloads",
-    "4. File Transfer/2. File Transfer Methods/1. Windows File Transfer Methods.md",
-    "4. File Transfer/2. File Transfer Methods/5. Protected File Transfers.md",
-    "4. File Transfer/2. File Transfer Methods/4. Miscellaneous File Transfer Methods.md",
-    "4. File Transfer/2. File Transfer Methods/3. Transferring Files with Code.md",
-    "4. File Transfer/2. File Transfer Methods/7. Living off The Land.md",
-    "4. File Transfer/3. Detect or Be Detected",
     "Pasted image 20260720162013.png",
-    "4. File Transfer/2. File Transfer Methods",
     "Pasted image 20260718161050.png",
     "Pasted image 20260718151038.png"
   ]
