@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Password Attacks/2. Password Cracking Techniques/1. Introduction to Password Cracking.md",
-                "mode": "source",
+                "file": "7. Password Attacks/3. Remote Password Attacks/1. Network Services.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction to Password Cracking"
+              "title": "1. Network Services"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25e41415ab67bc1d",
@@ -190,8 +191,16 @@
   },
   "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "7. Password Attacks/2. Password Cracking Techniques/6. Cracking Protected Archives.md",
+    "7. Password Attacks/3. Remote Password Attacks",
+    "7. Password Attacks/Untitled.canvas",
+    "7. Password Attacks/3. Remote Password Attacks/1. Network Services.md",
+    "7. Password Attacks/2. Password Cracking Techniques/5. Cracking Protected Files.md",
+    "7. Password Attacks/2. Password Cracking Techniques/4. Writing Custom Wordlists and Rules.md",
+    "7. Password Attacks/2. Password Cracking Techniques/3. Introduction to Hashcat.md",
+    "7. Password Attacks/2. Password Cracking Techniques/2. Introduction to John The Ripper.md",
     "7. Password Attacks/2. Password Cracking Techniques/1. Introduction to Password Cracking.md",
+    "Untitled.md",
     "7. Password Attacks/1. Introduction/Introduction.md",
     "7. Password Attacks/2. Password Cracking Techniques",
     "1. Footprinting/3. Host Based Enumeration/6. IMAP - POP3.md",
@@ -215,17 +224,9 @@
     "6. Using the Metasploit Framework/3. MSF Sessions/1. Sessions & Jobs.md",
     "6. Using the Metasploit Framework/2. MSF Components/6. Plugins.md",
     "6. Using the Metasploit Framework/3. MSF Sessions",
-    "6. Using the Metasploit Framework/2. MSF Components/5. Databases.md",
-    "6. Using the Metasploit Framework/2. MSF Components/4. Encoders.md",
-    "6. Using the Metasploit Framework/2. MSF Components/2. Targets.md",
-    "6. Using the Metasploit Framework/1. Introduction/2. Introduction to Metasploit.md",
-    "6. Using the Metasploit Framework/1. Introduction/1. Preface.md",
-    "6. Using the Metasploit Framework/2. MSF Components/1. Modules.md",
-    "6. Using the Metasploit Framework/1. Introduction/3. Introduction to MSFconsole.md",
     "6. Using the Metasploit Framework/2. MSF Components",
     "6. Using the Metasploit Framework/1. Introduction",
     "6. Using the Metasploit Framework",
-    "5. Shells & Payloads/Untitled",
     "Pasted image 20260720162013.png",
     "Pasted image 20260718161050.png",
     "Pasted image 20260718151038.png"
