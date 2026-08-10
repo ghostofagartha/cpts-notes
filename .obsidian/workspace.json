@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Password Attacks/4. Extracting Passwords from Windows Systems/1. Windows Authentication Process.md",
-                "mode": "preview",
+                "file": "7. Password Attacks/4. Extracting Passwords from Windows Systems/3. Attacking LSASS.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Windows Authentication Process"
+              "title": "3. Attacking LSASS"
             }
           }
         ]
@@ -190,10 +190,18 @@
   },
   "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "Pasted image 20260809202705.png",
-    "Untitled.md",
+    "7. Password Attacks/4. Extracting Passwords from Windows Systems/2. Attacking SAM, SYSTEM, and SECURITY.md",
+    "7. Password Attacks/4. Extracting Passwords from Windows Systems/3. Attacking LSASS.md",
+    "Pasted image 20260810184154.png",
+    "1. Footprinting/4. Remote Management Protocols/Windows Remote Management Protocol.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/1. Windows Authentication Process.md",
+    "Pasted image 20260809202705.png",
     "Pasted image 20260809195156.png",
+    "Pasted image 20260720162013.png",
+    "Pasted image 20260718161050.png",
+    "Pasted image 20260718151038.png",
+    "4. File Transfer/2. File Transfer Methods/1. Windows File Transfer Methods.md",
+    "Untitled.md",
     "7. Password Attacks/3. Remote Password Attacks/2. Spraying, Stuffing, and Defaults.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems",
     "7. Password Attacks/3. Remote Password Attacks/1. Network Services.md",
@@ -220,16 +228,9 @@
     "6. Using the Metasploit Framework/4. Additional Features/1. Writing & Importing Modules.md",
     "5. Shells & Payloads/4. Windows Shells/Infiltrating Windows.md",
     "5. Shells & Payloads/3. Payloads/1. Introduction to Payloads.md",
-    "4. File Transfer/2. File Transfer Methods/1. Windows File Transfer Methods.md",
-    "6. Using the Metasploit Framework/4. Additional Features/3. Firewall & IDS-IPS Evasion.md",
-    "6. Using the Metasploit Framework/4. Additional Features/2. Introduction to MSFVenom.md",
-    "6. Using the Metasploit Framework/3. MSF Sessions/2. Meterpreter.md",
     "6. Using the Metasploit Framework/4. Additional Features",
     "6. Using the Metasploit Framework/3. MSF Sessions",
     "6. Using the Metasploit Framework/2. MSF Components",
-    "6. Using the Metasploit Framework/1. Introduction",
-    "Pasted image 20260720162013.png",
-    "Pasted image 20260718161050.png",
-    "Pasted image 20260718151038.png"
+    "6. Using the Metasploit Framework/1. Introduction"
   ]
 }
