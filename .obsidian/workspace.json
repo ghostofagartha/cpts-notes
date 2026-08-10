@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Password Attacks/4. Extracting Passwords from Windows Systems/3. Attacking LSASS.md",
-                "mode": "source",
+                "file": "7. Password Attacks/4. Extracting Passwords from Windows Systems/4. Attacking Windows Credential Manager.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Attacking LSASS"
+              "title": "4. Attacking Windows Credential Manager"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25e41415ab67bc1d",
@@ -190,8 +191,10 @@
   },
   "active": "8ace255f5397471c",
   "lastOpenFiles": [
-    "7. Password Attacks/4. Extracting Passwords from Windows Systems/2. Attacking SAM, SYSTEM, and SECURITY.md",
+    "Pasted image 20260810230616.png",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/3. Attacking LSASS.md",
+    "7. Password Attacks/4. Extracting Passwords from Windows Systems/4. Attacking Windows Credential Manager.md",
+    "7. Password Attacks/4. Extracting Passwords from Windows Systems/2. Attacking SAM, SYSTEM, and SECURITY.md",
     "Pasted image 20260810184154.png",
     "1. Footprinting/4. Remote Management Protocols/Windows Remote Management Protocol.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/1. Windows Authentication Process.md",
@@ -227,7 +230,6 @@
     "1. Footprinting/1. Introduction/Enumeration_Methodology.md",
     "6. Using the Metasploit Framework/4. Additional Features/1. Writing & Importing Modules.md",
     "5. Shells & Payloads/4. Windows Shells/Infiltrating Windows.md",
-    "5. Shells & Payloads/3. Payloads/1. Introduction to Payloads.md",
     "6. Using the Metasploit Framework/4. Additional Features",
     "6. Using the Metasploit Framework/3. MSF Sessions",
     "6. Using the Metasploit Framework/2. MSF Components",
