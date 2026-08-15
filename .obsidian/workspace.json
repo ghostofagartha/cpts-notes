@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f4bf3b9ec0b30f83",
+        "id": "39379d66a0908591",
         "type": "tabs",
         "children": [
           {
-            "id": "8ace255f5397471c",
+            "id": "918bb3f24425d673",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Password Attacks/5. Extracting Passwords from Linux Systems/2. Credential Hunting in Linux.md",
+                "file": "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Credential Hunting in Linux"
-            }
-          },
-          {
-            "id": "0ec4c437075a72fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. File Transfer/2. File Transfer Methods/2. Linux File Transfer Methods.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Linux File Transfer Methods"
+              "title": "1. Pass the Hash (PtH)"
             }
           }
         ]
@@ -94,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25e41415ab67bc1d",
@@ -202,22 +189,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "8ace255f5397471c",
+  "active": "918bb3f24425d673",
   "lastOpenFiles": [
-    "4. File Transfer/2. File Transfer Methods/2. Linux File Transfer Methods.md",
-    "7. Password Attacks/5. Extracting Passwords from Linux Systems/2. Credential Hunting in Linux.md",
-    "7. Password Attacks/4. Extracting Passwords from Windows Systems/2. Attacking SAM, SYSTEM, and SECURITY.md",
-    "7. Password Attacks/4. Extracting Passwords from Windows Systems/3. Attacking LSASS.md",
-    "7. Password Attacks/4. Extracting Passwords from Windows Systems/5. Attacking Active Directory and NTDS.dit.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/4. Attacking Windows Credential Manager.md",
+    "7. Password Attacks/4. Extracting Passwords from Windows Systems/5. Attacking Active Directory and NTDS.dit.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/6. Credential Hunting in Windows.md",
-    "7. Password Attacks/5. Extracting Passwords from Linux Systems/1. Linux Authentication Process.md",
-    "7. Password Attacks/2. Password Cracking Techniques/3. Introduction to Hashcat.md",
-    "7. Password Attacks/5. Extracting Passwords from Linux Systems",
+    "7. Password Attacks/6. Extracting Passwords from the Network/1. Credential Hunting in Network Traffic.md",
+    "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH).md",
+    "Pasted image 20260815233845.png",
+    "7. Password Attacks/6. Extracting Passwords from the Network/2. Credential Hunting in Network Shares.md",
+    "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH)",
+    "7. Password Attacks/7. Windows Lateral Movement Techniques",
+    "1. Footprinting/3. Host Based Enumeration/2. SMB.md",
+    "7. Password Attacks/5. Extracting Passwords from Network/2. Credential Hunting in Network Shares.md",
     "4. File Transfer/2. File Transfer Methods/1. Windows File Transfer Methods.md",
-    "Untitled.md",
-    "Pasted image 20260811182124.png",
+    "7. Password Attacks/5. Extracting Passwords from Network/1. Credential Hunting in Network Traffic.md",
+    "Pasted image 20260813153633.png",
+    "7. Password Attacks/5. Extracting Passwords from Network",
     "Pasted image 20260810230616.png",
+    "7. Password Attacks/4. Extracting Passwords from Windows Systems/3. Attacking LSASS.md",
+    "7. Password Attacks/4. Extracting Passwords from Windows Systems/2. Attacking SAM, SYSTEM, and SECURITY.md",
     "Pasted image 20260810184154.png",
     "1. Footprinting/4. Remote Management Protocols/Windows Remote Management Protocol.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/1. Windows Authentication Process.md",
@@ -226,6 +217,7 @@
     "Pasted image 20260720162013.png",
     "Pasted image 20260718161050.png",
     "Pasted image 20260718151038.png",
+    "Untitled.md",
     "7. Password Attacks/3. Remote Password Attacks/2. Spraying, Stuffing, and Defaults.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems",
     "7. Password Attacks/3. Remote Password Attacks/1. Network Services.md",
@@ -234,6 +226,7 @@
     "7. Password Attacks/Untitled.canvas",
     "7. Password Attacks/2. Password Cracking Techniques/5. Cracking Protected Files.md",
     "7. Password Attacks/2. Password Cracking Techniques/4. Writing Custom Wordlists and Rules.md",
+    "7. Password Attacks/2. Password Cracking Techniques/3. Introduction to Hashcat.md",
     "7. Password Attacks/2. Password Cracking Techniques/2. Introduction to John The Ripper.md",
     "7. Password Attacks/2. Password Cracking Techniques/1. Introduction to Password Cracking.md",
     "7. Password Attacks/1. Introduction/Introduction.md",
@@ -242,12 +235,7 @@
     "7. Password Attacks/1. Introduction",
     "Untitled",
     "7. Password Attacks",
-    "1. Footprinting/3. Host Based Enumeration/2. SMB.md",
     "1. Footprinting/3. Host Based Enumeration/1. FTP.md",
-    "1. Footprinting/2. Infrastructure Based Enumeration/Staff Reconnaissance.md",
-    "1. Footprinting/2. Infrastructure Based Enumeration/Domain_Information.md",
-    "6. Using the Metasploit Framework/4. Additional Features",
-    "6. Using the Metasploit Framework/3. MSF Sessions",
-    "6. Using the Metasploit Framework/2. MSF Components"
+    "6. Using the Metasploit Framework/4. Additional Features"
   ]
 }
