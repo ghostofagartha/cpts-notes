@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH).md",
-                "mode": "preview",
+                "file": "7. Password Attacks/7. Windows Lateral Movement Techniques/2. Pass the Ticket (PtT) from Windows.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Pass the Hash (PtH)"
+              "title": "2. Pass the Ticket (PtT) from Windows"
             }
           }
         ]
@@ -191,11 +191,12 @@
   },
   "active": "918bb3f24425d673",
   "lastOpenFiles": [
+    "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH).md",
+    "7. Password Attacks/7. Windows Lateral Movement Techniques/2. Pass the Ticket (PtT) from Windows.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/4. Attacking Windows Credential Manager.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/5. Attacking Active Directory and NTDS.dit.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/6. Credential Hunting in Windows.md",
     "7. Password Attacks/6. Extracting Passwords from the Network/1. Credential Hunting in Network Traffic.md",
-    "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH).md",
     "Pasted image 20260815233845.png",
     "7. Password Attacks/6. Extracting Passwords from the Network/2. Credential Hunting in Network Shares.md",
     "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH)",
@@ -235,7 +236,6 @@
     "7. Password Attacks/1. Introduction",
     "Untitled",
     "7. Password Attacks",
-    "1. Footprinting/3. Host Based Enumeration/1. FTP.md",
     "6. Using the Metasploit Framework/4. Additional Features"
   ]
 }
