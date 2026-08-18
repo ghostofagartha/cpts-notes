@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "7. Password Attacks/7. Windows Lateral Movement Techniques/2. Pass the Ticket (PtT) from Windows.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25e41415ab67bc1d",
@@ -193,6 +192,7 @@
   "lastOpenFiles": [
     "7. Password Attacks/7. Windows Lateral Movement Techniques/1. Pass the Hash (PtH).md",
     "7. Password Attacks/7. Windows Lateral Movement Techniques/2. Pass the Ticket (PtT) from Windows.md",
+    "7. Password Attacks/3. Remote Password Attacks/1. Network Services.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/4. Attacking Windows Credential Manager.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/5. Attacking Active Directory and NTDS.dit.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems/6. Credential Hunting in Windows.md",
@@ -221,7 +221,6 @@
     "Untitled.md",
     "7. Password Attacks/3. Remote Password Attacks/2. Spraying, Stuffing, and Defaults.md",
     "7. Password Attacks/4. Extracting Passwords from Windows Systems",
-    "7. Password Attacks/3. Remote Password Attacks/1. Network Services.md",
     "7. Password Attacks/2. Password Cracking Techniques/6. Cracking Protected Archives.md",
     "7. Password Attacks/3. Remote Password Attacks",
     "7. Password Attacks/Untitled.canvas",
